@@ -1,4 +1,4 @@
-# Proyecto-Final-Pag-Web
+# Proyecto-Final-Pag-Web (Foro)
 Repositorio para la creación de una página web (Un foro)
 
 # Objetivo:
